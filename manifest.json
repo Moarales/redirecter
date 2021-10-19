@@ -9,6 +9,12 @@
   "icons": {
     "48": "icons/anti-bing.png"
   },
+  
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "extension@xScruffers.github.com"
+    }
+  }
 
   "content_scripts": [
     {
